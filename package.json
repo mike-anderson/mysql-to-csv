@@ -1,0 +1,16 @@
+{
+  "name": "mysql-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchtocsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "2.0.0",
+    "mysql": "2.16.0",
+    "terraformer-wkt-parser": "1.2.0"
+  }
+}
